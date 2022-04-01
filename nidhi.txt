@@ -1,1 +1,10 @@
-hlw
+A branch in Git is simply a lightweight movable pointer to one of these commits
+
+git clone https://github.com/manishcms/git-test.git (make copy of all files on your local)
+git branch(to see current branch)
+git fetch
+git checkout develop(for switch)
+git remote -v(show origin)
+(Git checkout -b <branchName>
+Or
+Git branch <branchName>) for make branch
